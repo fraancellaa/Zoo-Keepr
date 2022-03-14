@@ -171,6 +171,15 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "Isa",
+      "species": "Bear",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "18"
     }
   ]
 }
